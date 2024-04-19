@@ -75,25 +75,25 @@ a:hover {
     cursor: pointer; 
 }
 
+.layout1, .layout2, .layout3 {
+    display: inline-block; 
+    vertical-align: top; 
+    height: 100%; 
+}
+
 .layout1 {
     width: 30%;
-    height: 100%;
     background-color: rgb(218, 246, 255); 
-    float: left; 
 }
 
 .layout2 {
     width: 40%;
-    height: 100%;
     background-color: white; 
-    margin: 0 auto; 
 }
 
 .layout3 {
     width: 30%;
-    height: 100%;
     background-color: rgb(218, 246, 255); 
-    float: right; 
 }
 
 .layout1 img {
