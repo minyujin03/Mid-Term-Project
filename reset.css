@@ -46,6 +46,11 @@ body {
     bottom: 0;
     left: 0;
     right: 0;
+    text-align: center;
+}
+
+.footer .copyright {
+    font-size: 1.0em; 
 }
 
 header {
