@@ -89,8 +89,8 @@ a:hover {
     float: right; 
 }
 
-.photo {
-    width: 15%;
-    height: 20%;
-    object-fit: cover;
+.layout1 img {
+    max-width: 15%; 
+    max-height: 20%; 
+    object-fit: cover; 
 }
