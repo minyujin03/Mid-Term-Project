@@ -139,7 +139,7 @@ a:hover {
     width: 55%; 
     height: 100%; 
     background-color: white; 
-    float: right; 
+    float: left; 
 }
 
 .sub-layout2 {
@@ -152,5 +152,4 @@ a:hover {
 .sub-layout1 video {
     width: 100%; 
     height: auto;
-    margin-right: 35px;
 }
