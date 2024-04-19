@@ -111,15 +111,14 @@ a:hover {
 }
 
 .layout2 {
-    width: 75%; /* 두 번째 레이아웃의 너비를 40%로 설정 */
+    width: 60%; 
     height: 100%;
     background-color: white; 
     float: right; 
 }
 
-
 .layout1 img {
-    max-width: 40%; 
+    max-width: 100%; 
     max-height: 50%; 
     object-fit: cover; 
     margin-top: 30px;
@@ -127,9 +126,7 @@ a:hover {
 
 .table {
     margin-top: 50px;
-    float: right;
-    margin-right: 25px;
-}
+    margin-right: 0; 
 
 .table td {
     padding: 10px;
