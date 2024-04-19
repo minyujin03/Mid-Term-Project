@@ -90,7 +90,8 @@ a:hover {
 }
 
 .layout1 img {
-    max-width: 15%; 
-    max-height: 20%; 
+    max-width: 25%; 
+    max-height: 30%; 
     object-fit: cover; 
+    margin-top: 10px;
 }
