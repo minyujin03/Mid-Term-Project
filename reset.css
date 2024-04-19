@@ -155,6 +155,7 @@ a:hover {
 }
 .list {
     margin-top: 20px;
+    float: left;
 }
 
 .list ul {
