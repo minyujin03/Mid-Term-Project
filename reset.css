@@ -153,12 +153,16 @@ a:hover {
     width: 100%; 
     height: auto;
 }
+
 .list {
-    margin-top: 20px;
-    float: left;
+    display: flex;
+    flex-direction: column;
 }
 
 .list ul {
-    list-style-type: none;
-    padding-left: 20px;
+    margin-top: 10px;
+}
+
+.list ul ul {
+    margin-left: 20px;
 }
