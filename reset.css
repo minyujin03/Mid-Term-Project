@@ -103,22 +103,20 @@ a:hover {
     width: 100%;
 }
 
-.layout1, .layout2{
-    display: inline-block; 
-    vertical-align: top; 
-    height: 100%;
-    box-sizing: border-box;
-}
-
 .layout1 {
-    width: 30%;
-    background-color: rgb(218, 246, 255); 
+    width: 25%; 
+    height: 100%;
+    background-color: lightblue; 
+    float: left; 
 }
 
 .layout2 {
-    width: 40%;
+    width: 75%; /* 두 번째 레이아웃의 너비를 40%로 설정 */
+    height: 100%;
     background-color: white; 
+    float: right; 
 }
+
 
 .layout1 img {
     max-width: 30%; 
