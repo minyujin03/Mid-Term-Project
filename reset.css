@@ -5,13 +5,32 @@ h1, h2, h3, h4, h5, h6,
 a, header, section, footer, nav,
 img, form, figcaption, figure,
 i, p {
-  margin: 0;
-  padding: 0;
-  border: 0;
+    margin: 0;
+    padding: 0;
+    border: 0;
 }
 
-ol, ul {list-style: none; padding: 0; margin: 0;}
-a {text-decoration: none;}
+ol, ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+a {
+    text-decoration: none;
+    color: #000000;
+    font-size: 4em;
+    font-weight: bold;
+    transition: color 1s;
+}
+
+a:link, a:visited {
+    color: #000000;
+}
+
+a:hover {
+    color: rgb(208, 171, 255);
+}
 
 body {
     margin: 0;
@@ -48,5 +67,6 @@ header:after {
 }
 
 .main-menu li a {
-    font-size: 0.6em; 
+    font-size: 0.65em; 
 }
+
