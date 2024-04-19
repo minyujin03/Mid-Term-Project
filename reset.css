@@ -54,7 +54,9 @@ body {
 }
 
 .icons {
-    display: flex;
+    position: absolute;
+    right: 20px;
+    bottom: 20px;
 }
 
 .icons a {
