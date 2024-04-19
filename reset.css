@@ -103,7 +103,7 @@ a:hover {
     width: 100%;
 }
 
-.layout1, .layout2, .layout3 {
+.layout1, .layout2{
     display: inline-block; 
     vertical-align: top; 
     height: 100%;
@@ -118,11 +118,6 @@ a:hover {
 .layout2 {
     width: 40%;
     background-color: white; 
-}
-
-.layout3 {
-    width: 30%;
-    background-color: rgb(218, 246, 255); 
 }
 
 .layout1 img {
