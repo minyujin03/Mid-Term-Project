@@ -88,3 +88,10 @@ a:hover {
     background-color: white; 
     float: right; 
 }
+
+.shadow {
+    width: 20vw;
+    height: 60vh;
+    background-color: white;
+    box-shadow: 20px 20px 100px 10px;
+  }
