@@ -79,6 +79,7 @@ a:hover {
     background-color: white;
     height: 95vh;
     text-align: center; 
+}
 
 .layout1, .layout2, .layout3 {
     display: inline-block; 
