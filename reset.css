@@ -74,3 +74,17 @@ a:hover {
     color: plum; 
     cursor: pointer; 
 }
+
+.layout1{
+    width: 40%;
+    height: 100px;
+    background-color: lightblue; 
+    float: left; 
+}
+
+.layout2 {
+    width: 60%;
+    height: 100px;
+    background-color: white; 
+    float: right; 
+}
