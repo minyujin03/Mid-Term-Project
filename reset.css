@@ -154,17 +154,18 @@ a:hover {
     height: auto;
 }
 
-.list ul {
-    list-style-type: none;
-    padding-left: 0;
+.list {
+    margin-left: 20px; 
 }
 
-.list ul li {
-    margin-bottom: 10px;
+.list h3 {
+    margin-bottom: 10px; 
 }
 
-.list ul ul {
-    margin-top: 5px;
-    margin-left: 20px;
+.list ol {
+    list-style-type: none; 
 }
 
+.list ol ol {
+    margin-left: 20px; 
+}
