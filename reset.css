@@ -53,6 +53,19 @@ body {
     padding-top: 25px;
 }
 
+.icons {
+    display: flex;
+}
+
+.icons a {
+    margin-left: 10px;
+}
+
+.icons img {
+    width: 30px; 
+    height: 30px;
+}
+
 header {
     background-color: powderblue;
 }
