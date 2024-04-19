@@ -96,6 +96,18 @@ a:hover {
     cursor: pointer; 
 }
 
+.main-menu li a:hover {
+    color: plum; 
+}
+
+.main-menu li a {
+    pointer-events: none;
+}
+
+.main-menu li a:active {
+    color: plum; 
+}
+
 .main {
     background-color: white;
     height: 95vh;
