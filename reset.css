@@ -75,10 +75,10 @@ a:hover {
     cursor: pointer; 
 }
 
-.layout1{
+.layout1 {
     width: 40%;
     height: 100%;
-    background-color: lightblue; 
+    background-color: rgb(218, 246, 255); 
     float: left; 
 }
 
@@ -89,9 +89,8 @@ a:hover {
     float: right; 
 }
 
-.shadow {
-    width: 20%;
-    height: 70%;
-    background-color: white;
-    box-shadow: 10px 10px 80px 5px rgb(218, 218, 218);
-  }
+.photo {
+    width: 150px;
+    height: 200px;
+    object-fit: cover;
+}
