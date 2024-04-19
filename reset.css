@@ -136,15 +136,20 @@ a:hover {
     vertical-align: top;
 }
 .sub-layout1 {
-    width: 60%; 
+    width: 55%; 
     height: 100%; 
     background-color: white; 
     float: left; 
 }
 
 .sub-layout2 {
-    width: 40%; 
+    width: 45%; 
     height: 100%; 
     background-color: rgb(220, 246, 255); 
     float: right; 
+}
+
+.sub-layout1 video {
+    width: 100%; 
+    height: auto;
 }
