@@ -67,6 +67,10 @@ header:after {
 }
 
 .main-menu li a {
-    font-size: 0.65em; 
+    font-size: 0.7em; 
 }
 
+a:hover {
+    color: plum; 
+    cursor: pointer; 
+}
