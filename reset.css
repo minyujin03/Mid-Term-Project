@@ -75,6 +75,11 @@ a:hover {
     cursor: pointer; 
 }
 
+.main {
+    background-color: white;
+    height: 95vh;
+    text-align: center; 
+
 .layout1, .layout2, .layout3 {
     display: inline-block; 
     vertical-align: top; 
